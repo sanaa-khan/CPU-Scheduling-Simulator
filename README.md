@@ -1,4 +1,4 @@
-# CPU-Scheduling-Simulator-in-C
+# CPU Scheduling Simulator
 A CPU uses various scheduling algorithms to allocate CPU cycles to every program. This is a C/C++ implementation of those algorithms according to the 5 state model. It makes use of Linux system calls such as fork, exec, pipes (named/unnamed pipes
 depending on the requirement of communication), dup/dup2 as well as pthread library.
 
