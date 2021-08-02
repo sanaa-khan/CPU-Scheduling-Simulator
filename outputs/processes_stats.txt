@@ -1,0 +1,11 @@
+Proc Name	 | 	Arrival Time	 | 	Burst Time	 | 	Turnaround Time	 | 	Waiting Time	 |
+Proc1		 | 	0		 | 	5		 | 	5		 | 	0		 |
+Proc2		 | 	0		 | 	8		 | 	8		 | 	0		 |
+Proc3		 | 	1		 | 	6		 | 	6		 | 	0		 |
+Proc5		 | 	5		 | 	18		 | 	24		 | 	0		 |
+Proc6		 | 	14		 | 	6		 | 	6		 | 	0		 |
+
+Throughput	 | 	Average Waiting Time	 | 	Average Turnaround	 |
+5		 | 	0		 | 		9.8		 | 	
+ge Turnaround	 |
+6		 | 	0		 | 		10		 | 	
