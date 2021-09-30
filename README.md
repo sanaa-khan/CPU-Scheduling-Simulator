@@ -42,3 +42,6 @@ shown in the figure above.
 ## Execution Instructions
 - Compile and create executable of new.cpp, ready.cpp, running.cpp, blocked.cpp and exit.cpp
 - Compile, create executable of 5_state_model_simulator.cpp and run the executable
+
+## Contact
+Need help? Got any queries? Feel free to hit me up at sanakahnn@gmail.com.
